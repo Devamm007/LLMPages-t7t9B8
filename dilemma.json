@@ -1,0 +1,11 @@
+{
+  "people": 2,
+  "case_1": {
+    "swerve": false,
+    "reason": "The vehicle should not swerve to avoid the two people, as hitting one child is a lesser harm compared to hitting two adults, even if they are criminals."
+  },
+  "case_2": {
+    "swerve": true,
+    "reason": "Swerving to hit the child is justified because the child is innocent, whereas the two are criminals. The moral priority is to protect the innocent."
+  }
+}
